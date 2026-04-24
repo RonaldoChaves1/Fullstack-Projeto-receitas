@@ -20,7 +20,7 @@ Durante o desenvolvimento deste projeto, foram trabalhados os seguintes conceito
 
 ```bash
 # Clone o repositório
-git clone <url-do-repositorio>
+git clone https://github.com/RonaldoChaves1/Fullstack-Projeto-receitas.git
 
 # Acesse a pasta
 cd receitas
